@@ -1,9 +1,5 @@
 # TrackCase (In sviluppo)
 
-<p align="center">
-  <img src="./docs/images/app_logo.png" alt="Banner TrackCase" width="300">
-</p>
-
 TrackCase è una soluzione hardware e software integrata progettata per scansionare, tracciare e monitorare un dispositivo Iqos utilizzando il Bluetooth Low Energy (BLE) e un'applicazione companion per smartphone.
 
 ## 🏗 Architettura
