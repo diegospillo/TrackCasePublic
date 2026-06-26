@@ -1,4 +1,4 @@
-# TrackCase
+# TrackCase (In fase di sviluppo)
 
 <p align="center">
   <img src="./docs/images/app_logo.png" alt="Banner TrackCase" width="300">
